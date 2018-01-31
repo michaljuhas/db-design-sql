@@ -1,1 +1,1 @@
-# db-design-sql
+# DB Design Course
